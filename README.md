@@ -22,7 +22,6 @@ A Python selfbot script to clone the structure of one Discord server to another,
 - Python 3.8+
 - `discord.py`
 - `rich`
-- `aiohttp`
 
 Install dependencies with:
 
